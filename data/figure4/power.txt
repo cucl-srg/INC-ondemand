@@ -1,0 +1,9 @@
+Ref.NIC 15.0
+1PE&no mem 15.6
+5PE&no mem16.6
+5PE&no mem&Max tput 19.0
+5PE&mem in reset, clock gating 20.4
+5PE&mem in reset 22.6
+Server, no  NetFPGA card 25
+5PE, clock gating 25.4
+5PE 27.4
